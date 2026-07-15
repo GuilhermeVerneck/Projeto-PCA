@@ -30,4 +30,4 @@ Algoritmo funcional de Eigenfaces capaz de reduzir a dimensionalidade de imagens
 
 ## 👥 Equipe
 
-Projeto desenvolvido em grupo (5 integrantes) para a disciplina de Álgebra Linear Computacional.
+Projeto desenvolvido em grupo (3 integrantes) para a disciplina de Álgebra Linear Computacional.
